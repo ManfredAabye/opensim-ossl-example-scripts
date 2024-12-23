@@ -1,0 +1,116 @@
+<Nini>  
+	  <Section Name="Scripts Library">
+		<Key Name="folderID" Value="30000112-000f-0000-0000-000100bba002"/>
+		<Key Name="parentFolderID" Value="00000112-000f-0000-0000-000100bba000"/>
+		<Key Name="name" Value="Scripts Library"/>
+		<Key Name="type" Value="10"/>
+	  </Section>
+ 	  <Section Name="Examples">
+		<Key Name="folderID" Value="30000112-001f-0000-0000-000100bba000"/>
+		<Key Name="parentFolderID" Value="30000112-000f-0000-0000-000100bba002"/>
+		<Key Name="name" Value="Examples"/>
+		<Key Name="type" Value="10"/>
+	  </Section>
+	  <Section Name="OpenSim Specific">
+		<Key Name="folderID" Value="30000112-001f-0000-0000-000100bba001"/>
+		<Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba000"/>
+		<Key Name="name" Value="OpenSim Specific"/>
+		<Key Name="type" Value="10"/>
+	  </Section>
+	 <Section Name="Avatars">
+	   <Key Name="folderID" Value="30000112-001f-0000-0001-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Avatars"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="NPCs">
+	   <Key Name="folderID" Value="30000112-001f-0000-0002-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="NPCs"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Prim">
+	   <Key Name="folderID" Value="30000112-001f-0000-0003-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Prim"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Texture">
+	   <Key Name="folderID" Value="30000112-001f-0000-0004-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Texture"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Notecard">
+	   <Key Name="folderID" Value="30000112-001f-0000-0005-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Notecard"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Sound">
+	   <Key Name="folderID" Value="30000112-001f-0000-0006-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Sound"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="ScriptHTTP">
+	   <Key Name="folderID" Value="30000112-001f-0000-0007-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="ScriptHTTP"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Parcel">
+	   <Key Name="folderID" Value="30000112-001f-0000-0008-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Parcel"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Terrain">
+	   <Key Name="folderID" Value="30000112-001f-0000-0009-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Terrain"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Environment">
+	   <Key Name="folderID" Value="30000112-001f-0000-0010-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Environment"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Information">
+	   <Key Name="folderID" Value="30000112-001f-0000-0011-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Information"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Administration">
+	   <Key Name="folderID" Value="30000112-001f-0000-0012-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Administration"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Script">
+	   <Key Name="folderID" Value="30000112-001f-0000-0013-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Script"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="StringManipulation">
+	   <Key Name="folderID" Value="30000112-001f-0000-0014-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="StringManipulation"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Misc">
+	   <Key Name="folderID" Value="30000112-001f-0000-0015-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Misc"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>
+	 <Section Name="Material">
+	   <Key Name="folderID" Value="30000112-001f-0000-0016-000100bba000"/>
+	   <Key Name="parentFolderID" Value="30000112-001f-0000-0000-000100bba001"/>
+	   <Key Name="name" Value="Material"/>
+	   <Key Name="type" Value="10"/>
+	 </Section>  
+</Nini>
